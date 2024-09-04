@@ -1,6 +1,6 @@
 # Python Enthusiasts (@pyenthusiasts) - GitHub Organization README
 
-Welcome to the **Python Enthusiasts** GitHub organization! We are a community-driven group dedicated to learning, sharing, and contributing to the vast world of Python programming. Whether you're a beginner, an experienced developer, or just curious about Python, this is the place for you!
+Welcome to the **Python Enthusiasts** (@pyenthusiasts) GitHub organization! We are a community-driven group dedicated to learning, sharing, and contributing to the vast world of Python programming. Whether you're a beginner, an experienced developer, or just curious about Python, this is the place for you!
 
 ## Table of Contents
 
